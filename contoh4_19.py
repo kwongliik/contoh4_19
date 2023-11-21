@@ -1,6 +1,5 @@
 # function inputPengguna
 def inputPengguna(mesejInput):
-    #print(mesejInput)
     harga = float(input(mesejInput))
     return mesejInput
 
